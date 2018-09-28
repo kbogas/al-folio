@@ -1,37 +1,37 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: Your Name
-email: you@example.com
+name: Konstantinos Bougiatiotis
+email: bogas.ko@@gmail.com
 description: > # this means to ignore newlines until "url:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Welcome to my personal page!
+  I am an Electrical and Computer Systems Engineer and my primary focus is
+  data science and machine learning. I hold a research associate position at the Institute of Informatics and Telecommunications of the National Center for Scientific Research “Demokritos”, where I am involved in international projects. I work along the Software and Knowledge Engineering Laboratory and I conduct research under the guidance of Dr. Georgios Paliouras. I am mostly intrested in classical machine learning, basic research and applications on text and the biomedical domain.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
 url:  # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/
+baseurl: # the subpath of your site, e.g. /blog/
 last_updated: # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: # your GitHub user name
+github_username: kbogas# your GitHub user name
 twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: FUgj2joAAAA# your Google Scholar ID
 orcid_id: # your ORCID ID
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: al-folio
-blog_description: a simple whitespace theme for academics
+blog_name: Sultry Thoughts
+blog_description: Irregular posts about ongoing work, interesting news and everything else
 
 # Pagination
 paginate: 4
@@ -44,7 +44,7 @@ text:
     older: 'Older'
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: kbogas # put your disqus shortname
 
 # Optional features
 show_social_icons:  false
@@ -88,7 +88,7 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Einstein
+  last_name: Bougiatiotis
 
   style: apa
   locale: en
